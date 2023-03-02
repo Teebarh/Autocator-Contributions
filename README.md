@@ -18,4 +18,5 @@ To understand how needed our product is and how successful it can become, I was 
 
 ## Supporting Documents
 - [Main product Repo](https://github.com/ADA-Software-Engineering-Program/autocator).
-- [Technical Requirement Document](https://toyibat.gitbook.io/autocator-trd-team-amadioha/)
+- [Technical Requirement Document](https://toyibat.gitbook.io/autocator-trd-team-amadioha/).
+- [A PDF document containing the chatbot use cases](https://github.com/Teebarh/Autocator-Contributions/blob/main/Chatbot%20Use%20Cases.pdf).
