@@ -21,3 +21,5 @@ To understand how needed our product is and how successful it can become, I was 
 - [Technical Requirement Document](https://toyibat.gitbook.io/autocator-trd-team-amadioha/).
 - [A PDF document containing the chatbot use cases](https://github.com/Teebarh/Autocator-Contributions/blob/main/Chatbot%20Use%20Cases.pdf).
 - [Original excel file](https://github.com/Teebarh/Autocator-Contributions/blob/main/Autocator%20Survey%20(Responses).xlsx).
+- [Excel file containing analysis](https://github.com/Teebarh/Autocator-Contributions/blob/main/Autocator%20Survey%20-%20Post%20Analysis.xlsx).
+- [Analysis Dashboard](https://github.com/Teebarh/Autocator-Contributions/blob/main/Autocator%20Dashboard.png).
