@@ -7,6 +7,9 @@ Everyone agrees that car breakdowns are highly unpredictable. We also agree that
 
 We identified this problem and came up with a solution — Autocator. Autocator is an app where car users can access car mechanics with different specializations, at the tap of a button. Welders, Vulcanizers, Electrical Wiring specialists, General Mechanics, and more!
 
+## Check out the project
+Visit this [link](https://autocator.vercel.app/) to check out the project
+
 ## Contributions Made
 As the data scientist on the team, I was tasked with conducting a product analysis and creating a chatbot for the Autocator web application. I also handled writing the Technical Requirement Document and part of the Product Requirement Document as I'm also a technical writer.
 
